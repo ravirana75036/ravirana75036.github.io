@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7d7c1fe0.css","mappings":"AAAA,MACI,oBAAqB,CACrB,WACJ","sources":["components/About/About.css"],"sourcesContent":["#helo{\r\n    border: 5px solid red;\r\n    width: 150px;\r\n}\r\n\r\n/* .h{\r\n    border: 10px solid blue;\r\n    width: 150px;\r\n} */"],"names":[],"sourceRoot":""}
