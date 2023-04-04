@@ -1,0 +1,46 @@
+{
+    "logo" : {
+        "source": "images/swapnil.png",
+        "height" : 45,
+        "width" : 45
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/",
+            "id": "shome"
+        },
+        {
+            "title": "About",
+            "href": "/about",
+            "id": "sabout"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills",
+            "id": "sskills"
+        },
+        {
+            "title": "Education",
+            "href": "/education",
+            "id": "seducation"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience",
+            "id": "experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects",
+            "id": "sproject"
+        },
+        {
+            "title": "Contact",
+            "href": "/contact_me",
+            "id": "contact"
+        }
+
+    ]
+
+}

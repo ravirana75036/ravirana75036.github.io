@@ -1,0 +1,102 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/flipkart_project.png",
+            "title": "Flipkart Clone",
+            "bodyText": "Flipkart is one of India's leading E-commerce marketplaces \n\n\n Features:\n - Social Sign-in/Sign-up | Product Page | User authentication \n\n A collaborative project built by a team of 5 executed in 5 days.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/hemant-suryawanshi/Flipkart-Clone-1.0"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://flipkart-clone-frontend.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "React",
+                "HTML",
+                "CSS",
+                "E-commerce",
+                "netlify"
+            ]
+        },
+        {
+            "image" : "images/projects/bigbasket.png",
+            "title": "BigBasket Clone",
+            "bodyText": "BigBasket is an online food and grocery store that delivers personal and household needs right to customers' doorstep.\n\n\n Features: \n - Product Page | User authentication | Payment Gateway \n\n A collaborative project built by a team of 5 executed in 5 days.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/S-hub1996/Big-basket-clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://big-basket-clone-by-masai-school.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "Material UI",
+                "React Redux",
+                "React DOM",
+                "netlify",
+                "CSS",
+                "E-commerce"
+            ]
+        },
+        {
+            "image" : "images/projects/shopbop.png",
+            "title": "ShopBop Clone",
+            "bodyText": "Shopbop is a US online fashion apparel and accessories shop.\n\n\n Features: \n - Product Page | User authentication  \n\n This project built by a me in 5 days.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Codex-Swapnil1/ShopBop/tree/main/Shopbop_Clonning"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://creative-choux-20ded7.netlify.app"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML",
+                "netlify",
+                "CSS",
+                "E-commerce"
+            ]
+        },
+        {
+            "image" : "images/projects/espncrickinfo.png",
+            "title": "ESPN cricinfo Clone",
+            "bodyText": "ESPN cricinfo is a sports news website exclusively for the game of cricket.\n\n\n Features: \n - Home page | Responsive | Live Score \n\n A collaborative project built by a team of 5 executed in 5 days.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/vedantpawar18/cricinfo.com"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://cricinfo-clone.netlify.app"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML",
+                "netlify",
+                "CSS",
+                "E-commerce",
+                "React",
+                "Redux",
+                "Redux Thunks",
+                "Json-Server",
+                "Chakra UI",
+                "Styled Components"
+
+            ]
+        }
+    ]
+}

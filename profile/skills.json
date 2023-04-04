@@ -1,0 +1,73 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+
+            "title": "FrontEnd Technologies",
+            "items" : [
+
+                {
+                    "icon": "skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "skills/css-3.svg",
+                    "title": "CSS "
+                },
+                {
+                    "icon": "skills/html-5.svg",
+                    "title": "HTML "
+                },
+                {
+                    "icon": "skills/mongodb.svg",
+                    "title": "MongoDB"
+                },
+                {
+                    "icon": "skills/redux.svg",
+                    "title": "Redux"
+                }
+
+        ]},
+        {
+            "title": "BackEnd Technologies",
+            "items" : [
+
+                {
+                    "icon": "skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "skills/material-ui.svg",
+                    "title": "Material UI"
+                },
+                {
+                    "icon": "skills/bootstrap.svg",
+                    "title": "BootStrap"
+                },
+                {
+                    "icon": "skills/express.svg",
+                    "title": "ExpressJS"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "skills/visual-studio-code.svg",
+                    "title": "Visual Studio Code"
+                },
+                {
+                    "icon": "skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "skills/github-icon.svg",
+                    "title": "Github"
+                }
+            ]
+    }
+]}
